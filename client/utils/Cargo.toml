@@ -13,7 +13,7 @@ readme = "README.md"
 async-channel = "1.8.0"
 futures = "0.3.21"
 futures-timer = "3.0.2"
-lazy_static = "1.4.0"
+lazy_static = "1.5.0"
 log = "0.4"
 parking_lot = "0.12.1"
 prometheus = { version = "0.13.0", default-features = false }
